@@ -19,8 +19,8 @@
 
 <!-- ID Cards Section -->
 <div align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/FallCatsinSeng/FallCatsinSeng/main/maulana-card.svg" alt="Maulana Card" />
-  <img width="48%" src="https://raw.githubusercontent.com/FallCatsinSeng/FallCatsinSeng/main/yuuka-card.svg" alt="Yuuka Card" />
+  <img width="48%" src="https://raw.githubusercontent.com/FallCatsinSeng/FallCatsinSeng/master/maulana-card.svg" alt="Maulana Card" />
+  <img width="48%" src="https://raw.githubusercontent.com/FallCatsinSeng/FallCatsinSeng/master/yuuka-card.svg" alt="Yuuka Card" />
 </div>
 
 <br/>
